@@ -2,7 +2,7 @@
 
 
 ### About
-This is an plugin to equalize the height of elements of columns with the same top offset.
+This plugin equalize the height of elements in a line using your offset().top.
 
 This plugin is also available on [Bower](http://bower.io/).
 ```
