@@ -1,0 +1,41 @@
+{
+  "name": "height-equalizer",
+  "title": "HeightEqualizer",
+  "description": "This is an plugin to equalize the height of elements of columns with the same top offset.",
+  "version": "1.0.0",
+  "homepage": "https://github.com/sandroweb/height-equalizer",
+  "demo": "https://github.com/sandroweb/height-equalizer",
+  "docs": "https://github.com/sandroweb/height-equalizer/blob/master/README.md",
+  "author": {
+    "name": "Sandro Santos",
+    "email": "sandro@sandrosantos.art.br",
+    "url": "http://sandrosantos.art.br"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandroweb/height-equalizer.git"
+  },
+  "bugs": "https://github.com/sandroweb/height-equalizer/issues",
+  "dependencies": {
+    "jquery": ">=2.1.1"
+  },
+  "keywords": [
+    "height",
+    "equalizer",
+    "column",
+    "size",
+    "offset",
+    "top",
+    "line",
+    "height-equalizer",
+    "jquery",
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ]
+}
