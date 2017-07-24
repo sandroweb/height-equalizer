@@ -80,4 +80,4 @@ $('.item').heightEqualizer({
 
 
 ### You thinked that useful? Want help me?
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ENGJQ5TBNN7B4)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=ENGJQ5TBNN7B4&lc=GB&item_name=Sandro%20Santos&item_number=height%2dequalizer&currency_code=BRL&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted)
